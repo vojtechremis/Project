@@ -1,0 +1,51 @@
+# This custom style sheet is for Matplotlib plots
+# text.usetex : True
+font.size : 10
+axes.linewidth : 0.8
+legend.handlelength : 2.0
+axes.titlepad: 16
+axes.titlesize: large
+# font.family: 'TeX Gyre Termes'
+font.family: DejaVu Sans
+axes.grid: True
+axes.grid.axis: both
+figure.titleweight: bold
+axes.formatter.use_mathtext: True
+xtick.minor.pad: 0.5
+ytick.minor.pad: 0.5
+
+# LEGEND
+legend.framealpha: 1.0
+legend.fancybox: False
+legend.fontsize: 10
+legend.markerscale: 3.0
+legend.loc: upper left
+legend.edgecolor: black
+legend.facecolor: white
+legend.frameon: True
+legend.shadow: False
+legend.borderpad: 0.4
+
+# GRID
+grid.alpha: 1.0
+grid.linestyle: dashed
+grid.linewidth: 0.5
+
+# TICKS
+xtick.labelsize: 8
+ytick.labelsize: 8
+xtick.direction : inout
+ytick.direction : inout
+xtick.major.size : 7.0
+xtick.minor.size : 5.0
+ytick.major.size : 7.0
+ytick.minor.size : 5.0
+xtick.minor.visible: True
+ytick.minor.visible: True
+
+# LINES
+lines.linewidth: 1
+axes.labelsize: 10
+axes.labelpad: 16
+
+figure.dpi: 300
