@@ -3,7 +3,7 @@ Script: calculate_histogram.py
 Desc: It basically makes some additional visual analysis to allready created combinations (plots are being saved to corresponding folders).
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import pandas as pd
 from matplotlib import pyplot as plt

@@ -6,7 +6,7 @@ Removes a list of indicators with frequent missing values from a dataset.
 Filters a dataset based on a dictionary of indicators and their boundary values, excluding outliers.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import sys
 sys.path += [root_directory+'Inc']

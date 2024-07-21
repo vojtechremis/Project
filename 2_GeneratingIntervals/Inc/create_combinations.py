@@ -3,7 +3,7 @@ Script: create_combinations.py
 Desc: Generating training data based on multiple parameters.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import pandas as pd
 import numpy as np

@@ -3,7 +3,7 @@ Script: correlation_matrix.py
 Desc: Calculating correlation matrix for a table loaded from DB
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import pandas as pd
 from matplotlib import pyplot as plt

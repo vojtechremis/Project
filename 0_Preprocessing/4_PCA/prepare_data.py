@@ -4,7 +4,7 @@ Desc: Applying 4_PCA to a dataset.
 Using loaded 4_PCA output transforming dataset, applying MinMax scaler and saving it to a new DB.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import sys
 sys.path += [root_directory+'Inc']

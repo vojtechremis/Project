@@ -4,7 +4,7 @@ Desc: Perform Principal Component Analysis (4_PCA) on a dataset using Custom 4_P
 For first, it has to remove all non-numeric columns, all columns with all values equal to zero and all Null values.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import sys
 sys.path += [root_directory+'Inc']

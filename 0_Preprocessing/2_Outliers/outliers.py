@@ -4,7 +4,7 @@ Desc: Performs Z-Score analysis and saves non-outliers boundaries for each indic
 Performs missing data analysis and saves matrix Weeks x Indicator (more is discussed in Thesis).
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import numpy as np
 import pandas as pd

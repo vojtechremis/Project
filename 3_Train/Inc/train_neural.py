@@ -3,7 +3,7 @@ Script: train_neural.py
 Desc: This class provides complete control over the setup and training of neural network experiments in Thesis.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 # Neural training
 import tensorflow as tf
@@ -31,7 +31,7 @@ import sys
 sys.path.append(root_directory+'Inc')
 import log
 
-sys.path.append(root_directory+'3_Train/inc')
+sys.path.append(root_directory+'3_Train/Inc')
 import callbacks as Callbacks
 
 os.environ.setdefault('TF_CPP_MIN_LOG_LEVEL', '2')

@@ -3,7 +3,7 @@ Script: generate_function.py
 Desc: Generating synthetic data based with a specific function dependency.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -171,7 +171,7 @@ class SyntheticFunction: # Is able to handle general function: R^N -> R
 
     def specialVizualization(self, samples=30, manualSamples=None, showGrid=True):
         """
-        Reusing ApproximationVisualization method in /inc.
+        Reusing ApproximationVisualization method in /Inc.
         This method only initialize input parameters as follows:
         xlim, ylim due to root sampled function attribute
         """

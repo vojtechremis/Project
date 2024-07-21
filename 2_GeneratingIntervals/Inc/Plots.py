@@ -3,7 +3,7 @@ Script: Plots.py
 Desc: Class providing combination plot, i.e. rectangles visible on background function image.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
@@ -14,7 +14,7 @@ import numpy as np
 # Use custom style
 plt.style.use(root_directory+'Inc/MatPlotLib_styles/classicChart.mplstyle')
 
-#Importing shared modules from /VojtaWork/inc
+#Importing shared modules from /VojtaWork/Inc
 import sys
 sys.path.append(root_directory+'Inc')
 import log

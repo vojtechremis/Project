@@ -3,7 +3,7 @@ Script: include.py
 Desc: Function loadRectangles() loads rectangles from file.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import numpy as np
 import ast

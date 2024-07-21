@@ -4,7 +4,7 @@ Desc: custom Principal Component Analysis (4_PCA) library.
 Described in thesis.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import numpy as np
 import matplotlib.pyplot as plt

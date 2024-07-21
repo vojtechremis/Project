@@ -3,7 +3,7 @@ Script: calculate_profit.py
 Desc: Calculating relative profit on a table loaded from DB.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import numpy as np
 import pandas as pd

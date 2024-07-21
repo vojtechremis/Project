@@ -5,13 +5,13 @@ Desc: Functions and Classes for keeping SQL requests simple during project imple
 
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import sqlite3
 from sqlite3 import Error
 import pandas as pd
 
-#Importing shared modules from /VojtaWork/inc
+#Importing shared modules from /VojtaWork/Inc
 import sys
 sys.path.append(root_directory+'Inc')
 import log

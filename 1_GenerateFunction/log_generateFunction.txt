@@ -1,0 +1,12 @@
+16:07:43	Root function has been saved.
+16:07:43	Root function has been saved.
+16:07:43	Function has been saved!
+16:07:46	Samples file has been loaded.
+16:07:46	Values important for comparison of approximated values in 3_Train section: normMinMaxColor = [-0.24347023339288767, 0.2987879885373313].
+16:07:47	Values important for comparison of approximated values in 3_Train section: normMinMaxColor = [-0.24347023339288767, 0.2987879885373313].
+01:08:30	Root function has been saved.
+01:08:30	Root function has been saved.
+01:08:30	Function has been saved!
+01:08:34	Samples file has been loaded.
+01:08:34	Values important for comparison of approximated values in 3_Train section: normMinMaxColor = [-0.24347023339288767, 0.2987879885373313].
+01:08:35	Values important for comparison of approximated values in 3_Train section: normMinMaxColor = [-0.24347023339288767, 0.2987879885373313].

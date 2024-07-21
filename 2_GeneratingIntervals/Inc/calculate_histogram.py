@@ -3,7 +3,7 @@ Script: calculate_histogram.py
 Desc: Calculating histogram and CDF of data provided by generate_function module.
 """
 
-root_directory = '/Users/vojtechremis/Desktop/bachelorproject/'
+root_directory = '/Users/vojtechremis/Desktop/VŠ/BP/bachelorproject_git/bachelorproject/'
 
 import pandas as pd
 import numpy as np
