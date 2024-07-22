@@ -1,1 +1,0 @@
-01:03:33	__ERROR__: SQL Database connection error w/ dbPath: .../data/researchwizz.db
